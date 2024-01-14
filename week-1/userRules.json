@@ -1,0 +1,13 @@
+
+{
+    "user": "name",
+    "userBirthdate": "DD-MM-YYYY",
+    "userDependents": [
+        "Dependent one's Name",
+        "Dependent two's Name"
+     ],
+    "userRoles": [
+        "Account Admin",
+        "Customer"
+    ]
+}

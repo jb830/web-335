@@ -1,0 +1,6 @@
+
+Assignment 1.4 - Business Rules 
+
+A USER has exactly one BIRTHDATE.
+A USER has many DEPENDENTS
+A USER has any ROLES
