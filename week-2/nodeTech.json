@@ -1,0 +1,49 @@
+{
+    "student": {
+        "studentId": "12345",
+        "firtName": "John",
+        "lastName": "Doe",
+        "emrollment": [{
+            "term": "Winter",
+            "gpa": "3.3",
+            "startDate": "01/08/2024",
+            "endDate": "03/23/2024",
+            "course": [{
+                    "courseId": "3254",
+                    "description": "Intro to noSQL",
+                    "instructor": "Krasso",
+                    "score": "84",
+                    "letterGrade": "B"
+                },
+                {
+                    "courseId": "3456",
+                    "description": "Intro to Web API's",
+                    "instructor": "Krasso",
+                    "score": "90",
+                    "letterGrade": "A"
+                }
+            ]
+        }, 
+        {
+            "term": "Spring",
+            "gpa": "3.6",
+            "startDate": "03/08/2024",
+            "endDate": "05/23/2024",
+            "course": [{
+                    "courseId": "4354",
+                    "description": "Intro to something interesting",
+                    "instructor": "Krasso",
+                    "score": "96",
+                    "letterGrade": "A"
+                },
+                {
+                    "courseId": "6543",
+                    "description": "Intro to another interesting class",
+                    "instructor": "Krasso",
+                    "score": "85",
+                    "letterGrade": "B"
+                }
+            ]
+        }]
+    }
+}
