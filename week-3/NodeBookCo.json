@@ -1,0 +1,28 @@
+{
+    "publisher_name": "Hal Leonard Corp.",
+    "publisher_code": "43254",
+    "publisher_address": "7777 W Bluemound Rd, Milwaukee, WI 53213",
+    "books": [{
+            "book_isbn": "0793585031",
+            "book_name": "Your First Fake Book",
+            "book_price": "9.99",
+            "author": {
+                "author_first_name": "Alexander",
+                "author_last_name": "Citron",
+                "author_phone": "(555)555-5555",
+                "author_email": "alexandercitron@alexcitron.com"
+            }
+        },
+        {
+            "book_isbn": "1495009297",
+            "book_name": "Simple Songs: The Easiest Easy Guitar Songbook Ever",
+            "book_price": "9.99",
+            "author": {
+                "author_first_name": "Hal",
+                "author_last_name": "Leonard",
+                "author_phone": "(555)555-5555",
+                "author_email": "halleonard@ahalleonard.com"
+            }
+        }
+    ]
+}

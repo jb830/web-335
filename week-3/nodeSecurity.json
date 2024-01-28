@@ -1,0 +1,21 @@
+{
+    "user": "749832",
+    "userName": "John Doe",
+    "roles": [{
+            "name": "admin",
+            "permissions": {
+                "read": true,
+                "write": true,
+                "delete": true
+            }
+        },
+        {
+            "name": "customer",
+            "permissions": {
+                "read": true,
+                "write": false,
+                "delete": false
+            }
+        }
+    ]
+}
