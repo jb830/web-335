@@ -1,10 +1,10 @@
 /*
 ============================================
-; Title:  brumfield_myworld.py 
+; Title:  brumfield_5.2
 ; Author: Professor Krasso
-; Date: 28, January, 2024
+; Date: 9, February, 2024
 ; Modified by: Joanna Brumfield
-; Description: Pthon Math Functions
+; Description: MongoDB queries
 ;===========================================
 */
 
