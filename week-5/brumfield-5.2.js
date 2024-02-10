@@ -28,10 +28,8 @@ db.users.updateOne(
 
 //show only firstName, lastName, and email fields for all documents in users collection
 db.users.aggregate (
-    { $match: {} },
     { $project: { _id: 0, firstName: 1, lastName: 1, email: 1 } }
-) 
-
+)
 
 
 
