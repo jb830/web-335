@@ -52,7 +52,7 @@ db.students.aggregate([
 db.students.aggregate([
     {
       $match: {
-        "mascot": "Eagle"
+        "houseId": "h1009"
       }
     },
     {
