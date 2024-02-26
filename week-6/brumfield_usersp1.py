@@ -20,9 +20,11 @@ db = client['web335DB']
 "Write the Python code to display all documents in the user’s collection."
 for user in db.users.find():
     print(user)
+    
 # "Write the Python code to display a document where the employeeId is 1011."
 for user in db.users.find({"employeeId": "1011"}):
     print(user)
+    
 "Write the Python code to display a document where the lastName is Mozart."
 for user in db.users.find({"lastName": "Mozart"}):
     print(user)
